@@ -1,0 +1,2 @@
+MacPlayer.Html = '<iframe border="0" src="http://www.avziliao.com/ydisk/mgtv.php?url='+MacPlayer.PlayUrl+'&type=mgtv" width="100%" height="'+MacPlayer.Height+'" marginWidth="0" frameSpacing="0" marginHeight="0" frameBorder="0" scrolling="no" vspale="0" noResize></iframe>';
+MacPlayer.Show();

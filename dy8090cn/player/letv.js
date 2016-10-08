@@ -1,2 +1,2 @@
-MacPlayer.Html = '<embed type="application/x-shockwave-flash" src="http://www.letv.com/player/x'+MacPlayer.PlayUrl+'.swf" id="Player" bgcolor="#FFFFFF" quality="high" allowfullscreen="true" allowNetworking="internal" allowscriptaccess="never" wmode="transparent" menu="false" always="false"  pluginspage="http://www.macromedia.com/go/getflashplayer" width="100%" height="'+MacPlayer.Height+'" flashvars="">';
+﻿MacPlayer.Html = '<iframe border="0" src="http://www.avziliao.com/ydisk/letv.php?url='+MacPlayer.PlayUrl+'&type=letv" width="100%" height="'+MacPlayer.Height+'" marginWidth="0" frameSpacing="0" marginHeight="0" frameBorder="0" scrolling="no" vspale="0" noResize></iframe>';
 MacPlayer.Show();
