@@ -4,6 +4,6 @@
 	<title>wechat test </title>
 </head>
 <body>
-	hello ! Wechat development by sz!
+	hello ! Wechat development 123123123!
 </body>
 </html>
