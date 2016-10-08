@@ -19,7 +19,10 @@
 
 {maccms:head}
 
-	<div class="player mb"><div class="main">[vod:playerinfo][vod:player]</div></div>
+	<div class="player mb"><div class="main">{if-A:[vod:playfrom]=ykyun}
+<iframe width="100%" height="450" allowTransparency="true" frameborder="0" scrolling="no" src="/ykyun/yc.php?vid=[vod:playurlpath]"></iframe>{else-A}
+[vod:playerinfo][vod:player]
+{endif-A} </div></div>
     <div class="main">
 			<div class="tab-title mb clearfix">
     <ul>

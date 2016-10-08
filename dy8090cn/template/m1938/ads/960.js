@@ -1,1 +1,1 @@
-﻿document.writeln("<div class=\"ui-sponsor\"><a href=\"http:\/\/bbs.m1938.com\/\"><img alt=\"960-90\" src=\"http:\/\/www.m1938.com\/ADM1938\/AD960-90.gif\" width=\"100%\" height=\"35\" \/><\/a><\/div>")
+﻿document.writeln("<div class=\"ui-sponsor\"><a href=\"http:\/\/dy8090.cn\/\"><img alt=\"960-90\" src=\"http:\/\/www.m1938.com\/ADM1938\/AD960-90.gif\" width=\"100%\" height=\"35\" \/><\/a><\/div>")
