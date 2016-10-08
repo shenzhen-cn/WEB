@@ -16,5 +16,8 @@ return array (
   'xzmaccms_13' => 4,
   'jijizycom_31' => 5,
   'myzyzycom_5' => 5,
+  'fensizycom_3' => 4,
+  'fensizycom_1' => 4,
+  'fensizycom_11' => 12,
 );
 ?>
